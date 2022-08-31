@@ -10,7 +10,6 @@ function App() {
 <Cabecalho/>
 <div className="wrapper">
 <MenuLateral/>
-<MenuLateral/>
 <Menu/>
 </div>
   </>
