@@ -46,7 +46,9 @@ function MenuLateral(){
         </svg>
         Photography
       </a>
-      <a href="#">
+      <a href="#" onClick={() =>{
+        alert ("aaaaa") 
+      }}>
         <svg viewBox="0 0 512 512" fill="currentColor">
           <circle
             cx="295.099"
