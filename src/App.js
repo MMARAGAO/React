@@ -7,7 +7,7 @@ function App() {
   
   return (
   <> 
-<Cabecalho/>
+
 <div className="wrapper">
 <MenuLateral/>
 <Menu/>
